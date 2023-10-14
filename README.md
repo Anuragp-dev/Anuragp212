@@ -6,14 +6,14 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **MEARN STACK**
+- 🖥️ I’m currently learning **MEARN STACK**
 
 - 💬 Ask me about **JAVASCRIPT , MEARN**
 
-- 📫 How to reach me **anuragp212@gmail.com**
+- 📧 How to reach me **anuragp212@gmail.com**
 
 - ⚡ Fun fact **I am funny**
--  ⚡ **Vist My Portfilio**:<a href="https://anurag-p.live/"><h2>Visit</h2><a/>
+-  🪪 **Visit My Portfilio** : <a href="https://anurag-p.live/">Visit<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
