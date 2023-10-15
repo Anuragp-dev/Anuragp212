@@ -1,4 +1,4 @@
-<img align="top" width="100%" height="230" alt="Coding"  src="https://github.com/Anuragp212/Anuragp212/blob/main/standard%20(2).gif">
+`1q  A<img align="top" width="100%" height="230" alt="Coding"  src="https://github.com/Anuragp212/Anuragp212/blob/main/standard%20(2).gif">
 <h1 align="center">Hi 👋, I'm ANURAG P</h1>
 <h3 align="center">A passionate web developer from India . I am a Mea(r)n Stack Developer and a Programmig Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
@@ -13,7 +13,7 @@
 - 📧 How to reach me **anuragp212@gmail.com**
 
 - ⚡ Fun fact **I am funny**
--  🪪 **Visit My Portfilio** : <a href="https://anurag-p.live/">Visit<a/>
+-  🪪 **Visit My Portfilio** : <a href="https://anurag-p.live/">Visit🔗<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
