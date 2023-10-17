@@ -1,5 +1,5 @@
   <img align="top" width="100%" height="230" alt="Coding"  src="https://github.com/Anuragp212/Anuragp212/blob/main/standard%20(2).gif">
-<h1 align="center">Hi 👋, I'm ANURAG P</h1>
+<h1 align="center">Hi 👋,  I'm ANURAG P</h1>
 <h3 align="center">A passionate web developer from India . I am a Mea(r)n Stack Developer and a Programmig Enthusiast.</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragp212&label=Profile%20views&color=0e75b6&style=flat" alt="anuragp212" /> </p>
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/ anurag-p-34b10125b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ anurag-p-34b10125b" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/anuragp212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.instagram.com/anurag_anu121/" height="30" width="40" /></a>
 <a href="https://instagram.com/anurag_anu121" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anurag_anu121" height="30" width="40" /></a>
 </p>
 
