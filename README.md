@@ -13,7 +13,7 @@
 - 📧 How to reach me **anuragp212@gmail.com**
 
 - ⚡ Fun fact **I am funny**
--  🪪 **Visit My Portfilio** : <a href="https://anurag-p.live/">Visit🔗<a/>
+-  🪪 **Visit My Portfolio** : <a href="https://anurag-p.live/">Visit🔗<a/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
