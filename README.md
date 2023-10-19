@@ -12,7 +12,6 @@
 
 - 📧 How to reach me **anuragp212@gmail.com**
 
-- ⚡ Fun fact **I am funny**
 -  🪪 **Visit My Portfolio** : <a href="https://anurag-p.live/">Visit🔗<a/>
 
 <h3 align="left">Connect with me:</h3>
@@ -26,6 +25,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuragp212&show_icons=true&locale=en&layout=compact" alt="anuragp212" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragp212&show_icons=true&locale=en" alt="anuragp212" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anuragp212&" alt="anuragp212" /></p>
+
